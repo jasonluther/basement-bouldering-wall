@@ -2,6 +2,8 @@
 
 # DIY Basement Bouldering Wall
 
+![Climbing wall](img/climbing.jpg)
+
 To introduce our kinds to rock climbing, we built a small bouldering wall in our basement. 
 
 There are a lot of great resources for designing and building home rock climbing walls. [This REI article](https://www.rei.com/blog/climb/build-home-climbing-wall) is super comprehensive. I also got a lot of inspiration from [this I Like to Make Stuff build](https://iliketomakestuff.com/make-indoor-climbing-wall/). 
@@ -62,6 +64,8 @@ The tools for this project are the typical tools you'd need for any home DIY pro
 
 The first step is to consider the space you have and decide on the features you want from your climbing wall. 
 
+![Basement](img/first-section.jpg)
+
 Our basement has a low ceiling with a soffit that carries some plumbing, and that's really the only space we had that would work. That gives us about 6' in height. 
 
 Our kids are beginning climbers, so we're starting with a very slight tilt (about 1&deg;) and no crazy overhangs.  
@@ -76,19 +80,29 @@ The frame is just like a typical wall frame with top and bottom plates. The stud
 
 I predrilled the holes in the top and bottom plates before hammering in 3-1/2" 16D nails. Screws would also work fine. 
 
+![Framing](img/framing.jpg)
+
 The frame was built in two sections (one 8' and one 4') that are screwed together. 
 
+![Basement](img/framing-complete.jpg)
+
 At the bottom, the frame rests on the floor. The weight of a climber should push it down and toward the basement wall. 
+
+![Bottom](img/side-bottom.jpg)
 
 The ceiling is not a consistent height, so it took a lot of persuasion with the dead blow to get it into place. 
 
 At the top, the frame is screwed to some 2x3s that are screwed into the wall studs and into the soffit framing with #10 3-1/2" screws. 
+
+![Top](img/mount-top.jpg)
 
 Because the climbing wall would cover an outlet, I also added some wood to support the installation of an electrical box. This has worked out okay so far, but I'm not sure that it was a good idea vs. moving the outlet to the side of the frame. 
 
 ## Plywood
 
 The next step is to prepare the plywood: cutting it to size and then drilling holes for the holds. 
+
+![Plywood](img/plywood-with-holes.jpg)
 
 I cut the sheets to the right height using a circular saw. Our wall ended up being a little shy of 6'. 
 
@@ -98,32 +112,57 @@ I screwed the three sheets of plywood together and then started drilling the 7/8
 
 Then I hammered in the t-nuts. It's important to get them flat and to make sure they're driven in all the way. If they're loose, it's easy to accidentally poke them out when you're trying to install holds. 
 
+This one is a bit loose: 
+![T-nut](img/t-nut-back-view.jpg)
+
 The last step was to mount the sheets to the frame using 2-1/2" deck screws. I predrilled to avoid splitting the studs. 
+
+![Holes](img/hole.jpg)
+
+![Plywood mounted](img/primed.jpg)
 
 ## Paint
 
 At this point in the project, I was ready to declare victory. I was not even planning to varnish or paint the wall. 
 
+
 But my family had a different plan. 
 
 We decided to paint a design. Here's what my 8-year-old daughter proposed: 
 
-I made a quick drawing on the computer to see what it would look like using the wall dimensions and constraining the design to straight lines. 
+![Sketch](img/sketch.jpg)
+
+I made a quick sketch on the computer to see what it would look like using the wall dimensions and straight lines. 
 
 ![Climbing wall computer sketch](img/climbing-wall-sketch.png)
 
-Our color palate was determined by the leftover house paint (including so many samples). 
+Our color palate was determined by the leftover house paint we had available. 
+
+![Tape](img/tape.jpg)
+
+I laid out the design using painter's tape, using the holes as a guide for the horizon. 
 
 To draw the sun, I drive a nail in the center and attached a string to a pencil. Then I painted it by hand, frequently using a wet rag to wipe off mistakes and start over. 
 
-I laid out the rest of the design using painter's tape, using the holes as a guide for the horizon. 
+![Progress](img/paint-progress.jpg)
 
 To paint the mountains, we started with the background and progressed through the "layers" to the foreground. At each step, we had to cut away the tape on the side from the "snow" and then add new tape over the area that was just painted. Then we could paint the inside of the mountain and repeat. 
 
+![Progress](img/paint-steps.jpg)
+
+Here's the final product: 
+![Complete](img/paint-complete.jpg)
+
 ## Holds
 
+![Holds installed](img/final.jpg)
+
 The last step is to install the holds, which came with bolts. It's straightforward, but it's possible to push the t-nut out of the hole if you're not careful. One day I'll retrieve the ones that fell out, but for now we are just going to skip those holes. 
+
+![Hold detail](img/hold-side.jpg)
 
 We put up some holds and then added more as the kids tried out different routes. We've since added more. 
 
 With the holds in place and tightened by an adult, the only thing left to do is climb on!
+
+![Climb on!](img/climbing.jpg)
