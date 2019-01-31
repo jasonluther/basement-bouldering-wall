@@ -2,9 +2,9 @@
 
 # DIY Basement Bouldering Wall
 
-![Climbing wall](img/climbing.jpg)
+![Climbing wall](img/smile.jpg)
 
-To introduce our kinds to rock climbing, we built a small bouldering wall in our basement. 
+To introduce our kids to rock climbing, we built a small bouldering wall in our basement. 
 
 There are a lot of great resources for designing and building home rock climbing walls. [This REI article](https://www.rei.com/blog/climb/build-home-climbing-wall) is super comprehensive. I also got a lot of inspiration from [this I Like to Make Stuff build](https://iliketomakestuff.com/make-indoor-climbing-wall/). 
 
