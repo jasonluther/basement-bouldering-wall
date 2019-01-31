@@ -142,7 +142,7 @@ Our color palate was determined by the leftover house paint we had available.
 
 I laid out the design using painter's tape, using the holes as a guide for the horizon. 
 
-To draw the sun, I drive a nail in the center and attached a string to a pencil. Then I painted it by hand, frequently using a wet rag to wipe off mistakes and start over. 
+To draw the sun, I drove a nail in the center and attached a string to a pencil, which allowed me to draw a nice circle. Then I painted it by hand, frequently using a wet rag to wipe off mistakes and start over. 
 
 ![Progress](img/paint-progress.jpg)
 
