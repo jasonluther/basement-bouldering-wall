@@ -70,8 +70,6 @@ Our basement has a low ceiling with a soffit that carries some plumbing, and tha
 
 Our kids are beginning climbers, so we're starting with a very slight tilt (about 1&deg;) and no crazy overhangs.  
 
-Because the wall is nearly vertical, most of the load is carried by the concrete floor, so we don't need heavy-duty attachments to the wall and ceiling. 
-
 We had enough room to make the wall a little longer, but I kept it at a multiple of 4' (the width of the plywood sheets) to keep the build simpler and minimize waste. 
 
 ## Frame
