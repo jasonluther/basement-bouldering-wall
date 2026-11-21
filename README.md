@@ -12,7 +12,7 @@ I wanted to start with the simplest design that would work in the space we have.
 
 This is a fun family build. The kids can help drill holes, drive screws, hammer in t-nuts, and paint.
 
-### Be safe
+## Be safe
 
 Any construction project can be dangerous or fatal, so please take appropriate safety precautions and consult a professional when you need help.
 
@@ -26,7 +26,7 @@ Climbing can also be dangerous. Make sure the users of the wall know how to keep
 
 I am not a professional, and I am just sharing my experience for information and entertainment purposes. I cannot be held responsible for any damage or injuries that result from actions you take.
 
-### Steps
+## Steps
 
 These are the steps:
 
